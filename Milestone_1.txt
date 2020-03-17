@@ -1,0 +1,13 @@
+﻿Mat. Ändlig resurs.
+
+Dooders
+	Gå i olika hastigheter
+	Plocka upp mat
+	Äta mat
+	Ge mat till andra
+	Hunger (förmedla till andra dooders)
+	Energi
+
+Sinnen
+	Syn
+	Lukt
